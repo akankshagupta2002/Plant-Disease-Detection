@@ -1,0 +1,13 @@
+image,actual_class,predicted_class,confidence_percent,correct
+0a3befdb-c654-435b-b834-d3451436afd3___YLCV_NREC 2313.JPG,Tomato___Tomato_Yellow_Leaf_Curl_Virus,Tomato___Tomato_Yellow_Leaf_Curl_Virus,99.95,True
+a467df79-8bf7-4c48-a287-313731434909___Rut._Bact.S 3414.JPG,Peach___Bacterial_spot,Peach___Bacterial_spot,94.53,True
+44eb28f3-0d37-47a9-9b56-be98d15b8232___RS_HL 0469.JPG,Blueberry___healthy,Blueberry___healthy,99.78,True
+9e748aef-42d5-429b-b2c6-c95dfa581331___GCREC_Bact.Sp 3363.JPG,Tomato___Bacterial_spot,Tomato___Bacterial_spot,98.02,True
+f49fa2e7-d767-4d97-8b57-026388fe548a___Crnl_L.Mold 9033.JPG,Tomato___Leaf_Mold,Tomato___Leaf_Mold,74.36,True
+cfa52648-e9ac-45da-8046-e96046ff948a___RS_NLB 0804 copy.jpg,Corn_(maize)___Northern_Leaf_Blight,Corn_(maize)___Northern_Leaf_Blight,99.97,True
+9aa57fb1-88fc-407b-a655-0a5601e35404___RS_HL 5697 1.JPG,Soybean___healthy,Soybean___healthy,100.0,True
+de3c4897-eda8-4974-971d-4d88cbc5f893___FREC_Pwd.M 4935.JPG,Cherry_(including_sour)___Powdery_mildew,Cherry_(including_sour)___Powdery_mildew,100.0,True
+bb686360-bc57-41dd-b811-9625301db5f5___Keller.St_CG 1933.JPG,Tomato___Septoria_leaf_spot,Tomato___Septoria_leaf_spot,98.5,True
+253b8420-d8a7-4278-8f5c-b1a0dd709138___JR_HL 8214.JPG,"Pepper,_bell___healthy","Pepper,_bell___healthy",93.26,True
+67e44e1c-6554-4a77-8565-b174f66c3ff9___UF.GRC_YLCV_Lab 01412.JPG,Tomato___Tomato_Yellow_Leaf_Curl_Virus,Tomato___Tomato_Yellow_Leaf_Curl_Virus,57.61,True
+41db833a-fb14-4a85-bd11-4132c7ecb910___YLCV_NREC 0217.JPG,Tomato___Tomato_Yellow_Leaf_Curl_Virus,Tomato___Tomato_Yellow_Leaf_Curl_Virus,99.88,True
